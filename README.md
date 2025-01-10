@@ -22,7 +22,7 @@ A pipeline was constructed to streamline preprocessing (standard scaling and one
 The predictive model effectively identifies at-risk customers, enabling proactive retention strategies.
 
 ## Visualization 
-The report was created in Power BI and can be viewed [here]([url](https://app.powerbi.com/view?r=eyJrIjoiMGE5ZGJmMjUtZTk4Mi00ZGUyLWE1OWItZDI4MWVhNGY2YmM2IiwidCI6ImFmNzY1ZWQ5LWRlNzctNGY0OC04MWRlLTUzNTk0NzFmNTQwMyJ9)).
+The report was created in Power BI and can be viewed [here](https://app.powerbi.com/view?r=eyJrIjoiMGE5ZGJmMjUtZTk4Mi00ZGUyLWE1OWItZDI4MWVhNGY2YmM2IiwidCI6ImFmNzY1ZWQ5LWRlNzctNGY0OC04MWRlLTUzNTk0NzFmNTQwMyJ9).
 
 ## Conclusion
 This project successfully combined exploratory analysis, predictive modeling, and visualization to address customer churn. The insights emphasize the need for targeted retention strategies focusing on high-risk demographics, high-balance customers, and those with single bank products. The predictive model adds value by identifying at-risk customers with high accuracy, allowing for timely intervention. By leveraging these findings, the bank can reduce churn, improve customer satisfaction, and drive long-term profitability. This analysis demonstrates the importance of data-driven strategies in enhancing customer retention and operational efficiency.
