@@ -21,8 +21,12 @@ Random Forest was the best-performing model with an accuracy of 86.34% and a mea
 A pipeline was constructed to streamline preprocessing (standard scaling and one-hot encoding) and model training, ensuring efficiency and scalability.
 The predictive model effectively identifies at-risk customers, enabling proactive retention strategies.
 
-## Visualization 
-The report was created in Power BI and can be viewed [here](https://app.powerbi.com/view?r=eyJrIjoiMGE5ZGJmMjUtZTk4Mi00ZGUyLWE1OWItZDI4MWVhNGY2YmM2IiwidCI6ImFmNzY1ZWQ5LWRlNzctNGY0OC04MWRlLTUzNTk0NzFmNTQwMyJ9).
+## Recommendations
+1. Developing personalized retention strategies such as loyalty programs, tailored financial products or proactive engagement initiatives for high risk demographics.
+2. Customers with high balances are at a significant risk of churning so offering exclusive benefits like better interest rates, or premium services to retain them.
+3. Providing credit building programs, offering tailored loan options to support customers with lower credit scores making banking more accessible for these customers.
+4. Seeking feedbacks regularly from long-term customers to identify and address their concerns.
+5. Promoting and highlighting the benefits of bundling multiple bank products to customers to increase customer retention.
 
 ## Conclusion
 This project successfully combined exploratory analysis, predictive modeling, and visualization to address customer churn. The insights emphasize the need for targeted retention strategies focusing on high-risk demographics, high-balance customers, and those with single bank products. The predictive model adds value by identifying at-risk customers with high accuracy, allowing for timely intervention. By leveraging these findings, the bank can reduce churn, improve customer satisfaction, and drive long-term profitability. This analysis demonstrates the importance of data-driven strategies in enhancing customer retention and operational efficiency.
